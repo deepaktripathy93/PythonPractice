@@ -18,19 +18,19 @@ Other data structures can be implemented using Python classes and objects, such 
 
 In this tutorial we will concentrate on these Data Structures:
 
-* [Lists and Arrays](python_dsa_lists.asp)
-* [Stacks](python_dsa_stacks.asp)
-* [Queues](python_dsa_queues.asp)
-* [Linked Lists](python_dsa_linkedlists.asp)
-* [Hash Tables](python_dsa_hashtables.asp)
-* [Trees](python_dsa_trees.asp)
-	+ [Binary Trees](python_dsa_binarytrees.asp)
-	+ [Binary Search Trees](python_dsa_binarysearchtrees.asp)
-	+ [AVL Trees](python_dsa_avltrees.asp)
-* [Graphs](python_dsa_graphs.asp)
-* [Binary Trees](python_dsa_binarytrees.asp)
-* [Binary Search Trees](python_dsa_binarysearchtrees.asp)
-* [AVL Trees](python_dsa_avltrees.asp)
+* Lists and Arrays
+* Stacks
+* Queues
+* Linked Lists
+* Hash Tables
+* Trees
+	+ Binary Trees
+	+ Binary Search Trees
+	+ AVL Trees
+* Graphs
+* Binary Trees
+* Binary Search Trees
+* AVL Trees
 
 Algorithms
 ----------
@@ -39,15 +39,15 @@ Algorithms are a way of working with data in a computer and solving problems lik
 
 In this tutorial we will concentrate on these search and sort Algorithms:
 
-* [Linear Search](python_dsa_linearsearch.asp)
-* [Binary Search](python_dsa_binarysearch.asp)
-* [Bubble Sort](python_dsa_bubblesort.asp)
-* [Selection Sort](python_dsa_selectionsort.asp)
-* [Insertion Sort](python_dsa_insertionsort.asp)
-* [Quick Sort](python_dsa_quicksort.asp)
-* [Counting Sort](python_dsa_countingsort.asp)
-* [Radix Sort](python_dsa_radixsort.asp)
-* [Merge Sort](python_dsa_mergesort.asp)
+* Linear Search
+* Binary Search
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Quick Sort
+* Counting Sort
+* Radix Sort
+* Merge Sort
 
 Why Learn DSA with Python
 -------------------------
